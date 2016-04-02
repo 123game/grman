@@ -1,0 +1,26 @@
+{
+	"name": "grman",
+	"version": "1.0.0",
+	"description": "Game Room Manager - Nodejs module that manages games and rooms for ws socket",
+	"main": "index.js",
+	"scripts": {
+		"test": "echo 'Error: no test specified' && exit 1"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git://github.com/123game/grman.git"
+	},
+	"keywords": [
+		"games",
+		"rooms",
+		"ws"
+	],
+	"author": "nguyen.123game <123game.123game.123game@gmail.com> (http://123gamestudio.com/)",
+	"license": "MIT",
+	"bugs": {
+		"url": "https://github.com/123game/grman/issues"
+	},
+	"dependencies": {
+		"shortid": "^2.2.4"
+	}
+}
